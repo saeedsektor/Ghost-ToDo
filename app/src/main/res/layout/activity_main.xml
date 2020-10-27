@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#f5f5f5"
+    android:background="#404040"
     tools:context=".MainActivity">
 
     <ImageView
         android:id="@+id/imageLogo"
-        android:layout_width="200dp"
-        android:layout_height="70dp"
-        android:src="@drawable/skdevlogo"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:src="@drawable/ghost"
         android:layout_gravity="center"
         android:layout_marginTop="200dp"/>
 
